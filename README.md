@@ -1,16 +1,32 @@
-# React + Vite
+# Smart Travel & Tourism Portal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based travel website where users can explore destinations, browse tour packages, search and filter destinations, and submit travel inquiries.
 
-Currently, two official plugins are available:
+## Features
+- Explore travel destinations
+- Browse tour packages
+- Search and filter destinations by category and budget
+- Travel inquiry form with validation
+- Responsive user interface
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Tech Stack
+- React.js
+- JavaScript
+- HTML
+- CSS
+- React Router
+- Vite
 
-## React Compiler
+## Run Locally
+```bash
+npm install
+npm run dev
+```
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Project Status
+🚧 Work in Progress — More features and improvements are yet to be completed.
 
-## Expanding the ESLint configuration
+## Author
+**Sujata Patil**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+[GitHub](https://github.com/Sujatapatil3) | [LinkedIn](https://linkedin.com/in/sujata-patil-14b7a3306)
