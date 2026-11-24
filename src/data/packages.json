@@ -1,0 +1,24 @@
+
+[
+  {
+    "id": 1,
+    "name": "Bali Beach Holiday",
+    "destination": "Bali, Indonesia",
+    "duration": "5 Days / 4 Nights",
+    "price": "₹45,000"
+  },
+  {
+    "id": 2,
+    "name": "Switzerland Adventure",
+    "destination": "Switzerland",
+    "duration": "7 Days / 6 Nights",
+    "price": "₹85,000"
+  },
+  {
+    "id": 3,
+    "name": "Paris City Tour",
+    "destination": "Paris, France",
+    "duration": "4 Days / 3 Nights",
+    "price": "₹75,000"
+  }
+]
